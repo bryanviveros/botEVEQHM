@@ -3,4 +3,5 @@ Bot de WhatsApp para comunidad
 
 Más lineas
 
-# Documentación 1 (Dev1)
+# Documentación 2 (Dev2)
+Documetacion del desarrollador 2
